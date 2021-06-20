@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.exe
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.deps.json
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.runtimeconfig.json
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.dll
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\ref\Código Apilar Giusepy Calle 3c.dll
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\bin\Debug\net5.0\Código Apilar Giusepy Calle 3c.pdb
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.dll
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\ref\Código Apilar Giusepy Calle 3c.dll
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.pdb
+C:\Users\CompuStore\source\repos\Código Apilar Giusepy Calle 3c\obj\Debug\net5.0\Código Apilar Giusepy Calle 3c.genruntimeconfig.cache

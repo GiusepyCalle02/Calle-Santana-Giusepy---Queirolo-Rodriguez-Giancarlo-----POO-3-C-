@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Empleados de una Empresa Giusepy Calle 3C/1.0.0": {
+        "runtime": {
+          "Empleados de una Empresa Giusepy Calle 3C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empleados de una Empresa Giusepy Calle 3C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

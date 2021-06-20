@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.exe
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.deps.json
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.runtimeconfig.json
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.dll
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\ref\Empleados de una Empresa Giusepy Calle 3C.dll
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\bin\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.pdb
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.dll
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\ref\Empleados de una Empresa Giusepy Calle 3C.dll
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.pdb
+C:\Users\CompuStore\source\repos\Empleados de una Empresa Giusepy Calle 3C\obj\Debug\net5.0\Empleados de una Empresa Giusepy Calle 3C.genruntimeconfig.cache

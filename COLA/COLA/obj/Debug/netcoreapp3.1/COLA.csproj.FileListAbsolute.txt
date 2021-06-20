@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.exe
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.deps.json
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.runtimeconfig.json
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.dll
+C:\Users\Usuario\source\repos\COLA\COLA\bin\Debug\netcoreapp3.1\COLA.pdb
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.dll
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.pdb
+C:\Users\Usuario\source\repos\COLA\COLA\obj\Debug\netcoreapp3.1\COLA.genruntimeconfig.cache

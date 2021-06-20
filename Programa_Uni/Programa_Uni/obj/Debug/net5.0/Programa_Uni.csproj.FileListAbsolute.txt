@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.exe
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.deps.json
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.runtimeconfig.json
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.dll
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\ref\Programa_Uni.dll
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\bin\Debug\net5.0\Programa_Uni.pdb
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.dll
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\ref\Programa_Uni.dll
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.pdb
+C:\Users\Usuario\source\repos\Programa_Uni\Programa_Uni\obj\Debug\net5.0\Programa_Uni.genruntimeconfig.cache
